@@ -68,3 +68,25 @@ defaults:
       comments: true
       share: true
       related: true
+
+# Site Author 
+author:
+  name             : "Miao Qin"
+  avatar           : "/asset/images/avatar.jpg" # path to your photo 
+  bio              : "WashU student, Java Developer, database enthusiast."
+  location         : "St. Louis, Missouri"
+  email            : "miao.q@wustl.edu"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/miao-qin-280909187/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/MiaoQinn"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/" 
+
+# Reading Files 
+include: 
+  - _pages

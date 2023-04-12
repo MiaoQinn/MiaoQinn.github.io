@@ -1,13 +1,13 @@
 var store = [{
-        "title": "Example",
-        "excerpt":" Welcome to My website  ","categories": [],
+        "title": "Solutions: Bootstrap 5 Navbar toggle/responsive dropdown(collapse) not working ",
+        "excerpt":"I have been working on my e-commerce website for a while and I recently tried to make it look nice on Iphone/Android by adding responsive toggle bar using bootstrap 5. After I added the Navbar toggler when I clicked the dropdown icon nothing happened. It took me 4 hours to...","categories": [],
         "tags": [],
-        "url": "/2023/04/09/example.html",
+        "url": "/2023/03/11/NavBarDropDown.html",
         "teaser": null
       },{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
+        "title": "Website migrating",
+        "excerpt":"Welcome to My website  ","categories": [],
         "tags": [],
-        "url": "/jekyll/update/2023/04/09/welcome-to-jekyll.html",
+        "url": "/2023/04/09/example.html",
         "teaser": null
       }]
